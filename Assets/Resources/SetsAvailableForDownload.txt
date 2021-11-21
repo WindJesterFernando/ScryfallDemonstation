@@ -1,0 +1,709 @@
+Commander Collection: Black,https://api.scryfall.com/cards/search?order=set&q=e%3Acc2&unique=prints,,cc2,from_the_vault
+Innistrad: Double Feature,https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints,,dbl,draft_innovation
+Innistrad: Crimson Vow Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints,Innistrad: Double Feature,tvow,token
+Crimson Vow Commander,https://api.scryfall.com/cards/search?order=set&q=e%3Avoc&unique=prints,Commander,voc,commander
+Crimson Vow Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aavow&unique=prints,Innistrad: Double Feature,avow,memorabilia
+Innistrad: Crimson Vow,https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints,Innistrad: Double Feature,vow,expansion
+Pioneer Challenge Decks 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Aq06&unique=prints,,q06,box
+Innistrad: Midnight Hunt Substitute Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Asmid&unique=prints,Innistrad: Double Feature,smid,token
+Midnight Hunt Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aamid&unique=prints,Innistrad: Double Feature,amid,memorabilia
+Midnight Hunt Commander,https://api.scryfall.com/cards/search?order=set&q=e%3Amic&unique=prints,Commander,mic,commander
+Innistrad: Midnight Hunt Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmid&unique=prints,Innistrad: Double Feature,pmid,promo
+Innistrad: Midnight Hunt Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmid&unique=prints,Innistrad: Double Feature,tmid,token
+Midnight Hunt Commander Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmic&unique=prints,Commander,tmic,token
+Innistrad: Midnight Hunt,https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints,Innistrad: Double Feature,mid,expansion
+Jumpstart: Historic Horizons,https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints,,j21,draft_innovation
+Mystery Booster Playtest Cards 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Acmb2&unique=prints,,cmb2,funny
+2020 Heroes of the Realm,https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr20&unique=prints,Heroes of the Realm,htr20,funny
+Adventures in the Forgotten Realms Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apafr&unique=prints,,pafr,promo
+Forgotten Realms Commander Display Commanders,https://api.scryfall.com/cards/search?order=set&q=e%3Aoafc&unique=prints,,oafc,memorabilia
+Adventures in the Forgotten Realms Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aaafr&unique=prints,,aafr,memorabilia
+Forgotten Realms Commander,https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints,,afc,commander
+Forgotten Realms Commander Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atafc&unique=prints,,tafc,token
+Adventures in the Forgotten Realms Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atafr&unique=prints,,tafr,token
+Adventures in the Forgotten Realms Minigames,https://api.scryfall.com/cards/search?order=set&q=e%3Amafr&unique=prints,,mafr,funny
+Adventures in the Forgotten Realms,https://api.scryfall.com/cards/search?order=set&q=e%3Aafr&unique=prints,,afr,expansion
+Love Your LGS 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Aplg21&unique=prints,,plg21,promo
+Modern Horizons 2 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmh2&unique=prints,,pmh2,promo
+Modern Horizons 2 Minigames,https://api.scryfall.com/cards/search?order=set&q=e%3Ammh2&unique=prints,,mmh2,funny
+Wizards Play Network 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Apwp21&unique=prints,,pwp21,promo
+Modern Horizons 2 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmh2&unique=prints,,tmh2,token
+Modern Horizons 2,https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints,,mh2,draft_innovation
+Modern Horizons 2 Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aamh2&unique=prints,,amh2,memorabilia
+Modern Horizons 1 Timeshifts,https://api.scryfall.com/cards/search?order=set&q=e%3Ah1r&unique=prints,,h1r,draft_innovation
+Historic Anthology 5,https://api.scryfall.com/cards/search?order=set&q=e%3Aha5&unique=prints,,ha5,box
+Strixhaven: School of Mages Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints,,pstx,promo
+Commander 2021 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc21&unique=prints,,tc21,token
+Strixhaven: School of Mages Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atstx&unique=prints,,tstx,token
+Strixhaven: School of Mages Minigames,https://api.scryfall.com/cards/search?order=set&q=e%3Amstx&unique=prints,,mstx,funny
+Commander 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints,,c21,commander
+Commander 2021 Display Commanders,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc21&unique=prints,,oc21,memorabilia
+Strixhaven Mystical Archive,https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints,,sta,masterpiece
+Strixhaven: School of Mages,https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints,,stx,expansion
+Strixhaven Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aastx&unique=prints,,astx,memorabilia
+Time Spiral Remastered Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Attsr&unique=prints,,ttsr,token
+Time Spiral Remastered,https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints,,tsr,masters
+Historic Anthology 4,https://api.scryfall.com/cards/search?order=set&q=e%3Aha4&unique=prints,,ha4,box
+Kaldheim Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints,,pkhm,promo
+Kaldheim Minigames,https://api.scryfall.com/cards/search?order=set&q=e%3Amkhm&unique=prints,,mkhm,funny
+Kaldheim Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atkhm&unique=prints,,tkhm,token
+Kaldheim,https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints,,khm,expansion
+Kaldheim Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aakhm&unique=prints,,akhm,memorabilia
+Kaldheim Commander Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atkhc&unique=prints,,tkhc,token
+Kaldheim Commander,https://api.scryfall.com/cards/search?order=set&q=e%3Akhc&unique=prints,,khc,commander
+Year of the Ox 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Apl21&unique=prints,,pl21,promo
+MagicFest 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Apf21&unique=prints,,pf21,promo
+Judge Gift Cards 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Apj21&unique=prints,Judge Gift Cards,pj21,promo
+Commander Collection: Green,https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints,,cc1,from_the_vault
+Commander Legends Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcmr&unique=prints,,tcmr,token
+Commander Legends,https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints,,cmr,draft_innovation
+Kaladesh Remastered,https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints,,klr,masters
+The List,https://api.scryfall.com/cards/search?order=set&q=e%3Aplist&unique=prints,,plist,masters
+Zendikar Rising Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apznr&unique=prints,,pznr,promo
+Zendikar Rising Commander Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atznc&unique=prints,,tznc,token
+Zendikar Rising Expeditions,https://api.scryfall.com/cards/search?order=set&q=e%3Azne&unique=prints,,zne,masterpiece
+Zendikar Rising Substitute Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Asznr&unique=prints,,sznr,token
+Zendikar Rising Minigames,https://api.scryfall.com/cards/search?order=set&q=e%3Amznr&unique=prints,,mznr,funny
+Zendikar Rising Commander,https://api.scryfall.com/cards/search?order=set&q=e%3Aznc&unique=prints,Commander,znc,commander
+Zendikar Rising,https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints,,znr,expansion
+Zendikar Rising Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aaznr&unique=prints,,aznr,memorabilia
+Zendikar Rising Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atznr&unique=prints,,tznr,token
+Amonkhet Remastered,https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints,,akr,masters
+Arena Beginner Set,https://api.scryfall.com/cards/search?order=set&q=e%3Aanb&unique=prints,,anb,starter
+Double Masters,https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints,,2xm,masters
+Double Masters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3At2xm&unique=prints,,t2xm,token
+2019 Heroes of the Realm,https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr19&unique=prints,Heroes of the Realm,htr19,funny
+Jumpstart Arena Exclusives,https://api.scryfall.com/cards/search?order=set&q=e%3Aajmp&unique=prints,,ajmp,starter
+Jumpstart,https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints,,jmp,draft_innovation
+Core Set 2021 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm21&unique=prints,,pm21,promo
+Core Set 2021 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm21&unique=prints,,tm21,token
+Core Set 2021,https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints,Core Set,m21,core
+Signature Spellbook: Chandra,https://api.scryfall.com/cards/search?order=set&q=e%3Ass3&unique=prints,,ss3,spellbook
+Jumpstart Front Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Afjmp&unique=prints,,fjmp,memorabilia
+Secret Lair: Ultimate Edition,https://api.scryfall.com/cards/search?order=set&q=e%3Aslu&unique=prints,,slu,box
+Historic Anthology 3,https://api.scryfall.com/cards/search?order=set&q=e%3Aha3&unique=prints,,ha3,box
+Love Your LGS 2020,https://api.scryfall.com/cards/search?order=set&q=e%3Aplg20&unique=prints,,plg20,promo
+Ikoria: Lair of Behemoths Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apiko&unique=prints,,piko,promo
+Ikoria: Lair of Behemoths,https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints,,iko,expansion
+Ikoria: Lair of Behemoths Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atiko&unique=prints,,tiko,token
+Commander 2020 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apc20&unique=prints,,pc20,promo
+Commander 2020 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints,,oc20,memorabilia
+Commander 2020,https://api.scryfall.com/cards/search?order=set&q=e%3Ac20&unique=prints,Commander,c20,commander
+Commander 2020 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc20&unique=prints,Commander,tc20,token
+Historic Anthology 2,https://api.scryfall.com/cards/search?order=set&q=e%3Aha2&unique=prints,,ha2,box
+Mystery Booster Retail Edition Foils,https://api.scryfall.com/cards/search?order=set&q=e%3Afmb1&unique=prints,,fmb1,masters
+Unsanctioned Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atund&unique=prints,,tund,token
+Unsanctioned,https://api.scryfall.com/cards/search?order=set&q=e%3Aund&unique=prints,,und,funny
+Theros Beyond Death Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apthb&unique=prints,,pthb,promo
+Theros Beyond Death Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atthb&unique=prints,,tthb,token
+Theros Beyond Death,https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints,,thb,expansion
+Judge Gift Cards 2020,https://api.scryfall.com/cards/search?order=set&q=e%3Aj20&unique=prints,Judge Gift Cards,j20,promo
+MagicFest 2020,https://api.scryfall.com/cards/search?order=set&q=e%3Apf20&unique=prints,,pf20,promo
+Secret Lair Drop,https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints,,sld,box
+Historic Anthology 1,https://api.scryfall.com/cards/search?order=set&q=e%3Aha1&unique=prints,,ha1,box
+Game Night 2019 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgn2&unique=prints,,tgn2,token
+Game Night 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Agn2&unique=prints,,gn2,box
+Mystery Booster Playtest Cards 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Acmb1&unique=prints,,cmb1,funny
+Mystery Booster,https://api.scryfall.com/cards/search?order=set&q=e%3Amb1&unique=prints,,mb1,masters
+Ponies: The Galloping,https://api.scryfall.com/cards/search?order=set&q=e%3Aptg&unique=prints,,ptg,funny
+Throne of Eldraine Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apeld&unique=prints,,peld,promo
+Throne of Eldraine,https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints,,eld,expansion
+Throne of Eldraine Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Ateld&unique=prints,,teld,token
+Commander 2019 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc19&unique=prints,Commander,oc19,memorabilia
+Commander 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints,Commander,c19,commander
+Commander 2019 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc19&unique=prints,Commander,tc19,token
+2018 Heroes of the Realm,https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr18&unique=prints,Heroes of the Realm,htr18,funny
+San Diego Comic-Con 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Aps19&unique=prints,,ps19,promo
+Core Set 2020 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm20&unique=prints,,pm20,promo
+Core Set 2020 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm20&unique=prints,,tm20,token
+M20 Promo Packs,https://api.scryfall.com/cards/search?order=set&q=e%3Appp1&unique=prints,Core Set,ppp1,promo
+Core Set 2020,https://api.scryfall.com/cards/search?order=set&q=e%3Am20&unique=prints,Core Set,m20,core
+Signature Spellbook: Gideon,https://api.scryfall.com/cards/search?order=set&q=e%3Ass2&unique=prints,,ss2,spellbook
+Modern Horizons Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmh1&unique=prints,,pmh1,promo
+Modern Horizons,https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints,,mh1,draft_innovation
+Modern Horizons Art Series,https://api.scryfall.com/cards/search?order=set&q=e%3Aamh1&unique=prints,,amh1,memorabilia
+Modern Horizons Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmh1&unique=prints,,tmh1,token
+War of the Spark Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints,,pwar,promo
+War of the Spark Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atwar&unique=prints,Guilds of Ravnica,twar,token
+War of the Spark,https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints,Guilds of Ravnica,war,expansion
+Judge Gift Cards 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Aj19&unique=prints,Judge Gift Cards,j19,promo
+RNA Ravnica Weekend,https://api.scryfall.com/cards/search?order=set&q=e%3Aprw2&unique=prints,Guilds of Ravnica,prw2,promo
+RNA Guild Kit Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints,,tgk2,token
+RNA Guild Kit,https://api.scryfall.com/cards/search?order=set&q=e%3Agk2&unique=prints,,gk2,box
+Ravnica Allegiance Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aprna&unique=prints,Guilds of Ravnica,prna,promo
+Ravnica Allegiance,https://api.scryfall.com/cards/search?order=set&q=e%3Arna&unique=prints,Guilds of Ravnica,rna,expansion
+Ravnica Allegiance Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atrna&unique=prints,Guilds of Ravnica,trna,token
+MagicFest 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Apf19&unique=prints,,pf19,promo
+Planechase Anthology Planes,https://api.scryfall.com/cards/search?order=set&q=e%3Aopca&unique=prints,,opca,planechase
+Ultimate Box Topper,https://api.scryfall.com/cards/search?order=set&q=e%3Apuma&unique=prints,,puma,masterpiece
+Ultimate Masters,https://api.scryfall.com/cards/search?order=set&q=e%3Auma&unique=prints,,uma,masters
+Ultimate Masters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atuma&unique=prints,,tuma,token
+M19 Gift Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Ag18&unique=prints,,g18,box
+Game Night,https://api.scryfall.com/cards/search?order=set&q=e%3Agnt&unique=prints,,gnt,box
+GRN Ravnica Weekend,https://api.scryfall.com/cards/search?order=set&q=e%3Aprwk&unique=prints,Guilds of Ravnica,prwk,promo
+GRN Guild Kit Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints,,tgk1,token
+GRN Guild Kit,https://api.scryfall.com/cards/search?order=set&q=e%3Agk1&unique=prints,,gk1,box
+Guilds of Ravnica Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apgrn&unique=prints,Guilds of Ravnica,pgrn,promo
+Guilds of Ravnica Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgrn&unique=prints,Guilds of Ravnica,tgrn,token
+Guilds of Ravnica,https://api.scryfall.com/cards/search?order=set&q=e%3Agrn&unique=prints,Guilds of Ravnica,grn,expansion
+Mythic Edition Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmed&unique=prints,,tmed,token
+Mythic Edition,https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints,,med,masterpiece
+Commander 2018 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc18&unique=prints,Commander,oc18,memorabilia
+Commander 2018,https://api.scryfall.com/cards/search?order=set&q=e%3Ac18&unique=prints,Commander,c18,commander
+Commander 2018 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc18&unique=prints,Commander,tc18,token
+2017 Heroes of the Realm,https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr17&unique=prints,Heroes of the Realm,htr17,funny
+San Diego Comic-Con 2018,https://api.scryfall.com/cards/search?order=set&q=e%3Aps18&unique=prints,,ps18,promo
+Arena New Player Experience Extras,https://api.scryfall.com/cards/search?order=set&q=e%3Axana&unique=prints,,xana,memorabilia
+Arena New Player Experience,https://api.scryfall.com/cards/search?order=set&q=e%3Aana&unique=prints,,ana,starter
+MTG Arena Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apana&unique=prints,,pana,promo
+Arena New Player Experience Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Aoana&unique=prints,,oana,starter
+Core Set 2019 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm19&unique=prints,,pm19,promo
+Core Set 2019,https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints,Core Set,m19,core
+Core Set 2019 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm19&unique=prints,,tm19,token
+M19 Standard Showdown,https://api.scryfall.com/cards/search?order=set&q=e%3Apss3&unique=prints,,pss3,promo
+Global Series Jiang Yanggu & Mu Yanling,https://api.scryfall.com/cards/search?order=set&q=e%3Ags1&unique=prints,,gs1,duel_deck
+Signature Spellbook: Jace,https://api.scryfall.com/cards/search?order=set&q=e%3Ass1&unique=prints,,ss1,spellbook
+Battlebond Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apbbd&unique=prints,,pbbd,promo
+Battlebond Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atbbd&unique=prints,,tbbd,token
+Battlebond,https://api.scryfall.com/cards/search?order=set&q=e%3Abbd&unique=prints,,bbd,draft_innovation
+Commander Anthology Volume II,https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints,Commander,cm2,commander
+Commander Anthology Volume II Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcm2&unique=prints,Commander,tcm2,token
+Dominaria Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdom&unique=prints,,pdom,promo
+Dominaria Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdom&unique=prints,,tdom,token
+Dominaria,https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints,,dom,expansion
+Duel Decks: Elves vs. Inventors Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddu&unique=prints,,tddu,token
+Duel Decks: Elves vs. Inventors,https://api.scryfall.com/cards/search?order=set&q=e%3Addu&unique=prints,,ddu,duel_deck
+Masters 25,https://api.scryfall.com/cards/search?order=set&q=e%3Aa25&unique=prints,,a25,masters
+Masters 25 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Ata25&unique=prints,,ta25,token
+Lunar New Year 2018 ,https://api.scryfall.com/cards/search?order=set&q=e%3Aplny&unique=prints,,plny,promo
+Nationals Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apnat&unique=prints,,pnat,promo
+Rivals of Ixalan Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aprix&unique=prints,Ixalan,prix,promo
+Rivals of Ixalan Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atrix&unique=prints,Ixalan,trix,token
+Rivals of Ixalan,https://api.scryfall.com/cards/search?order=set&q=e%3Arix&unique=prints,Ixalan,rix,expansion
+Judge Gift Cards 2018,https://api.scryfall.com/cards/search?order=set&q=e%3Aj18&unique=prints,Judge Gift Cards,j18,promo
+Friday Night Magic 2018,https://api.scryfall.com/cards/search?order=set&q=e%3Af18&unique=prints,Friday Night Magic,f18,promo
+Unstable Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apust&unique=prints,,pust,promo
+Unstable Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints,,tust,token
+Unstable,https://api.scryfall.com/cards/search?order=set&q=e%3Aust&unique=prints,,ust,funny
+Iconic Masters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atima&unique=prints,,tima,token
+From the Vault: Transform,https://api.scryfall.com/cards/search?order=set&q=e%3Av17&unique=prints,,v17,from_the_vault
+XLN Treasure Chest,https://api.scryfall.com/cards/search?order=set&q=e%3Apxtc&unique=prints,Ixalan,pxtc,promo
+Explorers of Ixalan,https://api.scryfall.com/cards/search?order=set&q=e%3Ae02&unique=prints,,e02,box
+Iconic Masters,https://api.scryfall.com/cards/search?order=set&q=e%3Aima&unique=prints,,ima,masters
+Duel Decks: Merfolk vs. Goblins,https://api.scryfall.com/cards/search?order=set&q=e%3Addt&unique=prints,,ddt,duel_deck
+Duel Decks: Merfolk vs. Goblins Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddt&unique=prints,,tddt,token
+2017 Gift Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Ag17&unique=prints,,g17,box
+Ixalan Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apxln&unique=prints,Ixalan,pxln,promo
+Ixalan,https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints,Ixalan,xln,expansion
+Ixalan Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atxln&unique=prints,Ixalan,txln,token
+XLN Standard Showdown,https://api.scryfall.com/cards/search?order=set&q=e%3Apss2&unique=prints,Ixalan,pss2,promo
+HasCon 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Ah17&unique=prints,,h17,funny
+2016 Heroes of the Realm,https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr16&unique=prints,Heroes of the Realm,htr16,funny
+Archenemy: Nicol Bolas Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Ate01&unique=prints,,te01,token
+Commander 2017 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc17&unique=prints,Commander,oc17,memorabilia
+Commander 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints,Commander,c17,commander
+Commander 2017 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc17&unique=prints,Commander,tc17,token
+San Diego Comic-Con 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Aps17&unique=prints,,ps17,promo
+Hour of Devastation Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints,Amonkhet,phou,promo
+Hour of Devastation,https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints,Amonkhet,hou,expansion
+Hour of Devastation Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints,Amonkhet,thou,token
+Archenemy: Nicol Bolas Schemes,https://api.scryfall.com/cards/search?order=set&q=e%3Aoe01&unique=prints,,oe01,archenemy
+Archenemy: Nicol Bolas,https://api.scryfall.com/cards/search?order=set&q=e%3Ae01&unique=prints,,e01,archenemy
+Commander Anthology Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcma&unique=prints,Commander,tcma,token
+Commander Anthology,https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints,Commander,cma,commander
+Amonkhet Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints,Amonkhet,pakh,promo
+Amonkhet,https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints,Amonkhet,akh,expansion
+Amonkhet Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atakh&unique=prints,Amonkhet,takh,token
+Amonkhet Invocations,https://api.scryfall.com/cards/search?order=set&q=e%3Amp2&unique=prints,Amonkhet,mp2,masterpiece
+Welcome Deck 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints,,w17,starter
+Duel Decks: Mind vs. Might Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdds&unique=prints,,tdds,token
+Duel Decks: Mind vs. Might,https://api.scryfall.com/cards/search?order=set&q=e%3Adds&unique=prints,,dds,duel_deck
+Modern Masters 2017 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmm3&unique=prints,,tmm3,token
+Modern Masters 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints,,mm3,masters
+Aether Revolt Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints,Kaladesh,paer,promo
+Aether Revolt Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Ataer&unique=prints,Kaladesh,taer,token
+Aether Revolt,https://api.scryfall.com/cards/search?order=set&q=e%3Aaer&unique=prints,Kaladesh,aer,expansion
+League Tokens 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Al17&unique=prints,,l17,token
+Judge Gift Cards 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Aj17&unique=prints,Judge Gift Cards,j17,promo
+Friday Night Magic 2017,https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints,Friday Night Magic,f17,promo
+Planechase Anthology,https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints,,pca,planechase
+Planechase Anthology Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atpca&unique=prints,,tpca,token
+Treasure Chest,https://api.scryfall.com/cards/search?order=set&q=e%3Apz2&unique=prints,,pz2,treasure_chest
+Commander 2016 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc16&unique=prints,Commander,oc16,memorabilia
+Commander 2016 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc16&unique=prints,Commander,tc16,token
+Commander 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints,Commander,c16,commander
+San Diego Comic-Con 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints,,ps16,promo
+Kaladesh Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apkld&unique=prints,Kaladesh,pkld,promo
+Kaladesh,https://api.scryfall.com/cards/search?order=set&q=e%3Akld&unique=prints,Kaladesh,kld,expansion
+Kaladesh Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atkld&unique=prints,Kaladesh,tkld,token
+Kaladesh Inventions,https://api.scryfall.com/cards/search?order=set&q=e%3Amps&unique=prints,Kaladesh,mps,masterpiece
+Duel Decks: Nissa vs. Ob Nixilis,https://api.scryfall.com/cards/search?order=set&q=e%3Addr&unique=prints,,ddr,duel_deck
+Conspiracy: Take the Crown Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcn2&unique=prints,,tcn2,token
+Conspiracy: Take the Crown,https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints,,cn2,draft_innovation
+From the Vault: Lore,https://api.scryfall.com/cards/search?order=set&q=e%3Av16&unique=prints,,v16,from_the_vault
+Eldritch Moon Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apemn&unique=prints,Shadows over Innistrad,pemn,promo
+Eldritch Moon,https://api.scryfall.com/cards/search?order=set&q=e%3Aemn&unique=prints,Shadows over Innistrad,emn,expansion
+Eldritch Moon Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atemn&unique=prints,Shadows over Innistrad,temn,token
+Eternal Masters,https://api.scryfall.com/cards/search?order=set&q=e%3Aema&unique=prints,,ema,masters
+Eternal Masters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atema&unique=prints,,tema,token
+Shadows over Innistrad Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apsoi&unique=prints,Shadows over Innistrad,psoi,promo
+Shadows over Innistrad Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atsoi&unique=prints,Shadows over Innistrad,tsoi,token
+Shadows over Innistrad,https://api.scryfall.com/cards/search?order=set&q=e%3Asoi&unique=prints,Shadows over Innistrad,soi,expansion
+Welcome Deck 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Aw16&unique=prints,,w16,starter
+Duel Decks: Blessed vs. Cursed,https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints,,ddq,duel_deck
+Oath of the Gatewatch,https://api.scryfall.com/cards/search?order=set&q=e%3Aogw&unique=prints,Battle for Zendikar,ogw,expansion
+Oath of the Gatewatch Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atogw&unique=prints,Battle for Zendikar,togw,token
+Oath of the Gatewatch Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints,Battle for Zendikar,pogw,promo
+League Tokens 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Al16&unique=prints,,l16,token
+Friday Night Magic 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Af16&unique=prints,Friday Night Magic,f16,promo
+Judge Gift Cards 2016,https://api.scryfall.com/cards/search?order=set&q=e%3Aj16&unique=prints,Judge Gift Cards,j16,promo
+Legendary Cube Prize Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Apz1&unique=prints,,pz1,treasure_chest
+Commander 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints,Commander,c15,commander
+Commander 2015 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc15&unique=prints,Commander,tc15,token
+Commander 2015 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints,Commander,oc15,memorabilia
+Battle for Zendikar Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atbfz&unique=prints,Battle for Zendikar,tbfz,token
+Battle for Zendikar Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apbfz&unique=prints,Battle for Zendikar,pbfz,promo
+Battle for Zendikar,https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints,Battle for Zendikar,bfz,expansion
+BFZ Standard Series,https://api.scryfall.com/cards/search?order=set&q=e%3Apss1&unique=prints,Battle for Zendikar,pss1,promo
+Zendikar Expeditions,https://api.scryfall.com/cards/search?order=set&q=e%3Aexp&unique=prints,Battle for Zendikar,exp,masterpiece
+Duel Decks: Zendikar vs. Eldrazi,https://api.scryfall.com/cards/search?order=set&q=e%3Addp&unique=prints,,ddp,duel_deck
+From the Vault: Angels,https://api.scryfall.com/cards/search?order=set&q=e%3Av15&unique=prints,,v15,from_the_vault
+Magic Origins Clash Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints,,cp3,starter
+Magic Origins Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apori&unique=prints,,pori,promo
+Magic Origins,https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints,Core Set,ori,core
+Magic Origins Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atori&unique=prints,,tori,token
+San Diego Comic-Con 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Aps15&unique=prints,,ps15,promo
+Modern Masters 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints,,mm2,masters
+Modern Masters 2015 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmm2&unique=prints,,tmm2,token
+Tempest Remastered,https://api.scryfall.com/cards/search?order=set&q=e%3Atpr&unique=prints,,tpr,masters
+Tarkir Dragonfury,https://api.scryfall.com/cards/search?order=set&q=e%3Aptkdf&unique=prints,Khans of Tarkir,ptkdf,promo
+Dragons of Tarkir Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints,Khans of Tarkir,pdtk,promo
+Dragons of Tarkir,https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints,Khans of Tarkir,dtk,expansion
+Dragons of Tarkir Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdtk&unique=prints,Khans of Tarkir,tdtk,token
+Duel Decks: Elspeth vs. Kiora,https://api.scryfall.com/cards/search?order=set&q=e%3Addo&unique=prints,,ddo,duel_deck
+Fate Reforged Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apfrf&unique=prints,Khans of Tarkir,pfrf,promo
+Fate Reforged Clash Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Acp2&unique=prints,Khans of Tarkir,cp2,starter
+Fate Reforged Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atfrf&unique=prints,Khans of Tarkir,tfrf,token
+Fate Reforged,https://api.scryfall.com/cards/search?order=set&q=e%3Afrf&unique=prints,Khans of Tarkir,frf,expansion
+Ugin's Fate,https://api.scryfall.com/cards/search?order=set&q=e%3Augin&unique=prints,Khans of Tarkir,ugin,promo
+League Tokens 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Al15&unique=prints,,l15,token
+Friday Night Magic 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Af15&unique=prints,Friday Night Magic,f15,promo
+Judge Gift Cards 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Aj15&unique=prints,Judge Gift Cards,j15,promo
+Duel Decks Anthology: Jace vs. Chandra Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atjvc&unique=prints,,tjvc,token
+Duel Decks Anthology: Divine vs. Demonic Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdvd&unique=prints,,tdvd,token
+Duel Decks Anthology: Garruk vs. Liliana Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgvl&unique=prints,,tgvl,token
+Duel Decks Anthology: Elves vs. Goblins Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atevg&unique=prints,,tevg,token
+Duel Decks Anthology: Divine vs. Demonic,https://api.scryfall.com/cards/search?order=set&q=e%3Advd&unique=prints,,dvd,duel_deck
+Duel Decks Anthology: Garruk vs. Liliana,https://api.scryfall.com/cards/search?order=set&q=e%3Agvl&unique=prints,,gvl,duel_deck
+Duel Decks Anthology: Jace vs. Chandra,https://api.scryfall.com/cards/search?order=set&q=e%3Ajvc&unique=prints,,jvc,duel_deck
+Duel Decks Anthology: Elves vs. Goblins,https://api.scryfall.com/cards/search?order=set&q=e%3Aevg&unique=prints,,evg,duel_deck
+Commander 2014 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc14&unique=prints,Commander,oc14,memorabilia
+Commander 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints,Commander,c14,commander
+Commander 2014 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atc14&unique=prints,Commander,tc14,token
+Khans of Tarkir Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apktk&unique=prints,Khans of Tarkir,pktk,promo
+Khans of Tarkir,https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints,Khans of Tarkir,ktk,expansion
+Khans of Tarkir Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atktk&unique=prints,Khans of Tarkir,tktk,token
+Duel Decks: Speed vs. Cunning,https://api.scryfall.com/cards/search?order=set&q=e%3Addn&unique=prints,,ddn,duel_deck
+From the Vault: Annihilation,https://api.scryfall.com/cards/search?order=set&q=e%3Av14&unique=prints,,v14,from_the_vault
+Magic 2015 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm15&unique=prints,,tm15,token
+Magic 2015,https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints,Core Set,m15,core
+Magic 2015 Clash Pack,https://api.scryfall.com/cards/search?order=set&q=e%3Acp1&unique=prints,,cp1,starter
+Magic 2015 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm15&unique=prints,,pm15,promo
+M15 Prerelease Challenge,https://api.scryfall.com/cards/search?order=set&q=e%3Appc1&unique=prints,,ppc1,memorabilia
+San Diego Comic-Con 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints,,ps14,promo
+Vintage Masters,https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints,,vma,masters
+Conspiracy Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apcns&unique=prints,,pcns,promo
+Conspiracy Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcns&unique=prints,,tcns,token
+Conspiracy,https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints,,cns,draft_innovation
+Modern Event Deck 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Amd1&unique=prints,,md1,box
+Modern Event Deck 2014 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmd1&unique=prints,,tmd1,token
+Defeat a God,https://api.scryfall.com/cards/search?order=set&q=e%3Atdag&unique=prints,Theros,tdag,token
+Journey into Nyx,https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints,Theros,jou,expansion
+Journey into Nyx Hero's Path,https://api.scryfall.com/cards/search?order=set&q=e%3Athp3&unique=prints,Theros,thp3,memorabilia
+Journey into Nyx Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atjou&unique=prints,Theros,tjou,token
+Journey into Nyx Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apjou&unique=prints,Theros,pjou,promo
+Duel Decks: Jace vs. Vraska,https://api.scryfall.com/cards/search?order=set&q=e%3Addm&unique=prints,,ddm,duel_deck
+Duel Decks: Jace vs. Vraska Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddm&unique=prints,,tddm,token
+Battle the Horde,https://api.scryfall.com/cards/search?order=set&q=e%3Atbth&unique=prints,Theros,tbth,token
+Born of the Gods Hero's Path,https://api.scryfall.com/cards/search?order=set&q=e%3Athp2&unique=prints,Theros,thp2,memorabilia
+Born of the Gods Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atbng&unique=prints,Theros,tbng,token
+Born of the Gods,https://api.scryfall.com/cards/search?order=set&q=e%3Abng&unique=prints,Theros,bng,expansion
+Born of the Gods Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apbng&unique=prints,Theros,pbng,promo
+Duels of the Planeswalkers 2015 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdp15&unique=prints,,pdp15,promo
+IDW Comics 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Api14&unique=prints,,pi14,promo
+League Tokens 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Al14&unique=prints,,l14,token
+Judge Gift Cards 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Aj14&unique=prints,Judge Gift Cards,j14,promo
+Friday Night Magic 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Af14&unique=prints,Friday Night Magic,f14,promo
+Commander 2013 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aoc13&unique=prints,Commander,oc13,memorabilia
+Commander 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints,Commander,c13,commander
+Face the Hydra,https://api.scryfall.com/cards/search?order=set&q=e%3Atfth&unique=prints,Theros,tfth,token
+Theros Hero's Path,https://api.scryfall.com/cards/search?order=set&q=e%3Athp1&unique=prints,Theros,thp1,memorabilia
+Theros Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atths&unique=prints,Theros,tths,token
+Theros,https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints,Theros,ths,expansion
+Theros Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apths&unique=prints,Theros,pths,promo
+Duel Decks: Heroes vs. Monsters,https://api.scryfall.com/cards/search?order=set&q=e%3Addl&unique=prints,,ddl,duel_deck
+Duel Decks: Heroes vs. Monsters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddl&unique=prints,,tddl,token
+From the Vault: Twenty,https://api.scryfall.com/cards/search?order=set&q=e%3Av13&unique=prints,,v13,from_the_vault
+Magic 2014 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm14&unique=prints,,tm14,token
+Magic 2014,https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints,Core Set,m14,core
+Magic 2014 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints,,pm14,promo
+San Diego Comic-Con 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints,,psdc,promo
+Modern Masters Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmma&unique=prints,,tmma,token
+Modern Masters,https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints,,mma,masters
+Dragon's Maze,https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints,Return to Ravnica,dgm,expansion
+Dragon's Maze Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdgm&unique=prints,Return to Ravnica,tdgm,token
+Dragon's Maze Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdgm&unique=prints,Return to Ravnica,pdgm,promo
+World Magic Cup Qualifiers,https://api.scryfall.com/cards/search?order=set&q=e%3Apwcq&unique=prints,,pwcq,promo
+Duel Decks: Sorin vs. Tibalt Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddk&unique=prints,,tddk,token
+Duel Decks: Sorin vs. Tibalt,https://api.scryfall.com/cards/search?order=set&q=e%3Addk&unique=prints,,ddk,duel_deck
+Gatecrash,https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints,Return to Ravnica,gtc,expansion
+Gatecrash Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atgtc&unique=prints,Return to Ravnica,tgtc,token
+Gatecrash Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apgtc&unique=prints,Return to Ravnica,pgtc,promo
+Duels of the Planeswalkers 2014 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdp14&unique=prints,,pdp14,promo
+IDW Comics 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Api13&unique=prints,,pi13,promo
+League Tokens 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Al13&unique=prints,,l13,token
+Friday Night Magic 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Af13&unique=prints,Friday Night Magic,f13,promo
+Judge Gift Cards 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Aj13&unique=prints,Judge Gift Cards,j13,promo
+Commander's Arsenal Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aocm1&unique=prints,Commander,ocm1,memorabilia
+Commander's Arsenal,https://api.scryfall.com/cards/search?order=set&q=e%3Acm1&unique=prints,Commander,cm1,commander
+Return to Ravnica,https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints,Return to Ravnica,rtr,expansion
+Return to Ravnica Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aprtr&unique=prints,Return to Ravnica,prtr,promo
+Return to Ravnica Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atrtr&unique=prints,Return to Ravnica,trtr,token
+Duel Decks: Izzet vs. Golgari,https://api.scryfall.com/cards/search?order=set&q=e%3Addj&unique=prints,,ddj,duel_deck
+Duel Decks: Izzet vs. Golgari Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddj&unique=prints,,tddj,token
+From the Vault: Realms,https://api.scryfall.com/cards/search?order=set&q=e%3Av12&unique=prints,,v12,from_the_vault
+Magic 2013 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm13&unique=prints,,tm13,token
+Magic 2013,https://api.scryfall.com/cards/search?order=set&q=e%3Am13&unique=prints,Core Set,m13,core
+Magic 2013 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm13&unique=prints,,pm13,promo
+Planechase 2012 Planes,https://api.scryfall.com/cards/search?order=set&q=e%3Aopc2&unique=prints,,opc2,planechase
+Planechase 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Apc2&unique=prints,,pc2,planechase
+Avacyn Restored Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atavr&unique=prints,Innistrad,tavr,token
+Avacyn Restored,https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints,Innistrad,avr,expansion
+Open the Helvault,https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints,,phel,promo
+Avacyn Restored Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apavr&unique=prints,Innistrad,pavr,promo
+Duel Decks: Venser vs. Koth Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddi&unique=prints,,tddi,token
+Duel Decks: Venser vs. Koth,https://api.scryfall.com/cards/search?order=set&q=e%3Addi&unique=prints,,ddi,duel_deck
+Dark Ascension,https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints,Innistrad,dka,expansion
+Dark Ascension Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdka&unique=prints,Innistrad,tdka,token
+Dark Ascension Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdka&unique=prints,Innistrad,pdka,promo
+IDW Comics 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Apidw&unique=prints,,pidw,promo
+Wizards Play Network 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Apwp12&unique=prints,,pwp12,promo
+Duels of the Planeswalkers 2013 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdp13&unique=prints,,pdp13,promo
+League Tokens 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Al12&unique=prints,,l12,token
+Friday Night Magic 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Af12&unique=prints,Friday Night Magic,f12,promo
+Judge Gift Cards 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Aj12&unique=prints,Judge Gift Cards,j12,promo
+Premium Deck Series: Graveborn,https://api.scryfall.com/cards/search?order=set&q=e%3Apd3&unique=prints,,pd3,premium_deck
+Innistrad,https://api.scryfall.com/cards/search?order=set&q=e%3Aisd&unique=prints,Innistrad,isd,expansion
+Innistrad Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atisd&unique=prints,Innistrad,tisd,token
+Innistrad Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apisd&unique=prints,Innistrad,pisd,promo
+Duel Decks: Ajani vs. Nicol Bolas,https://api.scryfall.com/cards/search?order=set&q=e%3Addh&unique=prints,,ddh,duel_deck
+Duel Decks: Ajani vs. Nicol Bolas Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddh&unique=prints,,tddh,token
+From the Vault: Legends,https://api.scryfall.com/cards/search?order=set&q=e%3Av11&unique=prints,,v11,from_the_vault
+Magic 2012 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm12&unique=prints,,tm12,token
+Magic 2012,https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints,Core Set,m12,core
+Magic 2012 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm12&unique=prints,,pm12,promo
+Commander 2011 Oversized,https://api.scryfall.com/cards/search?order=set&q=e%3Aocmd&unique=prints,Commander,ocmd,memorabilia
+Commander 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints,Commander,cmd,commander
+Commander 2011 Launch Party,https://api.scryfall.com/cards/search?order=set&q=e%3Apcmd&unique=prints,Commander,pcmd,memorabilia
+Duel Decks: Mirrodin Pure vs. New Phyrexia,https://api.scryfall.com/cards/search?order=set&q=e%3Atd2&unique=prints,,td2,duel_deck
+New Phyrexia,https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints,Scars of Mirrodin,nph,expansion
+New Phyrexia Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atnph&unique=prints,Scars of Mirrodin,tnph,token
+New Phyrexia Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apnph&unique=prints,Scars of Mirrodin,pnph,promo
+Duel Decks: Knights vs. Dragons Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddg&unique=prints,,tddg,token
+Duel Decks: Knights vs. Dragons,https://api.scryfall.com/cards/search?order=set&q=e%3Addg&unique=prints,,ddg,duel_deck
+Mirrodin Besieged Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmbs&unique=prints,Scars of Mirrodin,tmbs,token
+Mirrodin Besieged,https://api.scryfall.com/cards/search?order=set&q=e%3Ambs&unique=prints,Scars of Mirrodin,mbs,expansion
+Mirrodin Besieged Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmbs&unique=prints,Scars of Mirrodin,pmbs,promo
+Masters Edition IV,https://api.scryfall.com/cards/search?order=set&q=e%3Ame4&unique=prints,,me4,masters
+Magic Premiere Shop 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps11&unique=prints,,pmps11,promo
+Duels of the Planeswalkers 2012 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdp12&unique=prints,,pdp12,promo
+Wizards Play Network 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Apwp11&unique=prints,,pwp11,promo
+Friday Night Magic 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Af11&unique=prints,Friday Night Magic,f11,promo
+Legacy Championship,https://api.scryfall.com/cards/search?order=set&q=e%3Aolgc&unique=prints,,olgc,memorabilia
+Salvat 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints,,ps11,box
+Judge Gift Cards 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints,Judge Gift Cards,g11,promo
+Magic Player Rewards 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Ap11&unique=prints,Magic Player Rewards,p11,promo
+Premium Deck Series: Fire and Lightning,https://api.scryfall.com/cards/search?order=set&q=e%3Apd2&unique=prints,,pd2,premium_deck
+Magic Online Theme Decks,https://api.scryfall.com/cards/search?order=set&q=e%3Atd0&unique=prints,,td0,box
+Scars of Mirrodin Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atsom&unique=prints,Scars of Mirrodin,tsom,token
+Scars of Mirrodin,https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints,Scars of Mirrodin,som,expansion
+Scars of Mirrodin Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apsom&unique=prints,Scars of Mirrodin,psom,promo
+Duel Decks: Elspeth vs. Tezzeret Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddf&unique=prints,,tddf,token
+Duel Decks: Elspeth vs. Tezzeret,https://api.scryfall.com/cards/search?order=set&q=e%3Addf&unique=prints,,ddf,duel_deck
+From the Vault: Relics,https://api.scryfall.com/cards/search?order=set&q=e%3Av10&unique=prints,,v10,from_the_vault
+Magic 2011,https://api.scryfall.com/cards/search?order=set&q=e%3Am11&unique=prints,Core Set,m11,core
+Magic 2011 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm11&unique=prints,,tm11,token
+Magic 2011 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm11&unique=prints,,pm11,promo
+Archenemy Schemes,https://api.scryfall.com/cards/search?order=set&q=e%3Aoarc&unique=prints,,oarc,archenemy
+Archenemy,https://api.scryfall.com/cards/search?order=set&q=e%3Aarc&unique=prints,,arc,archenemy
+Promotional Schemes,https://api.scryfall.com/cards/search?order=set&q=e%3Aparc&unique=prints,,parc,archenemy
+Duels of the Planeswalkers,https://api.scryfall.com/cards/search?order=set&q=e%3Adpa&unique=prints,,dpa,box
+Rise of the Eldrazi Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aproe&unique=prints,Zendikar,proe,promo
+Rise of the Eldrazi,https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints,Zendikar,roe,expansion
+Rise of the Eldrazi Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atroe&unique=prints,Zendikar,troe,token
+Duel Decks: Phyrexia vs. the Coalition Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdde&unique=prints,,tdde,token
+Duel Decks: Phyrexia vs. the Coalition,https://api.scryfall.com/cards/search?order=set&q=e%3Adde&unique=prints,,dde,duel_deck
+Worldwake Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints,Zendikar,pwwk,promo
+Worldwake,https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints,Zendikar,wwk,expansion
+Worldwake Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atwwk&unique=prints,Zendikar,twwk,token
+Duels of the Planeswalkers 2010 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdp10&unique=prints,,pdp10,promo
+Wizards Play Network 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Apwp10&unique=prints,,pwp10,promo
+Magic Premiere Shop 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps10&unique=prints,,pmps10,promo
+Judge Gift Cards 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Ag10&unique=prints,Judge Gift Cards,g10,promo
+Friday Night Magic 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Af10&unique=prints,Friday Night Magic,f10,promo
+Magic Player Rewards 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Ap10&unique=prints,Magic Player Rewards,p10,promo
+Premium Deck Series: Slivers,https://api.scryfall.com/cards/search?order=set&q=e%3Ah09&unique=prints,,h09,premium_deck
+Duel Decks: Garruk vs. Liliana,https://api.scryfall.com/cards/search?order=set&q=e%3Addd&unique=prints,,ddd,duel_deck
+Duel Decks: Garruk vs. Liliana Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddd&unique=prints,,tddd,token
+Zendikar Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apzen&unique=prints,Zendikar,pzen,promo
+Zendikar Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atzen&unique=prints,Zendikar,tzen,token
+Zendikar,https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints,Zendikar,zen,expansion
+Masters Edition III,https://api.scryfall.com/cards/search?order=set&q=e%3Ame3&unique=prints,,me3,masters
+Planechase Planes,https://api.scryfall.com/cards/search?order=set&q=e%3Aohop&unique=prints,,ohop,planechase
+Planechase,https://api.scryfall.com/cards/search?order=set&q=e%3Ahop&unique=prints,,hop,planechase
+Promotional Planes,https://api.scryfall.com/cards/search?order=set&q=e%3Aphop&unique=prints,,phop,promo
+From the Vault: Exiled,https://api.scryfall.com/cards/search?order=set&q=e%3Av09&unique=prints,,v09,from_the_vault
+Magic 2010 Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atm10&unique=prints,,tm10,token
+Magic 2010,https://api.scryfall.com/cards/search?order=set&q=e%3Am10&unique=prints,Core Set,m10,core
+Magic 2010 Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apm10&unique=prints,,pm10,promo
+Alara Reborn Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aparb&unique=prints,Alara,parb,promo
+Alara Reborn,https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints,Alara,arb,expansion
+Alara Reborn Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atarb&unique=prints,Alara,tarb,token
+Duel Decks: Divine vs. Demonic Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atddc&unique=prints,,tddc,token
+Duel Decks: Divine vs. Demonic,https://api.scryfall.com/cards/search?order=set&q=e%3Addc&unique=prints,,ddc,duel_deck
+URL/Convention Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apurl&unique=prints,,purl,promo
+Conflux Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apcon&unique=prints,Alara,pcon,promo
+Conflux,https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints,Alara,con,expansion
+Conflux Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atcon&unique=prints,Alara,tcon,token
+Miscellaneous Book Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apbook&unique=prints,,pbook,promo
+Wizards Play Network 2009,https://api.scryfall.com/cards/search?order=set&q=e%3Apwp09&unique=prints,,pwp09,promo
+Duels of the Planeswalkers 2009 Promos ,https://api.scryfall.com/cards/search?order=set&q=e%3Apdtp&unique=prints,,pdtp,promo
+Magic Premiere Shop 2009,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps09&unique=prints,,pmps09,promo
+Magic Player Rewards 2009,https://api.scryfall.com/cards/search?order=set&q=e%3Ap09&unique=prints,Magic Player Rewards,p09,promo
+Judge Gift Cards 2009,https://api.scryfall.com/cards/search?order=set&q=e%3Ag09&unique=prints,Judge Gift Cards,g09,promo
+Friday Night Magic 2009,https://api.scryfall.com/cards/search?order=set&q=e%3Af09&unique=prints,Friday Night Magic,f09,promo
+Duel Decks: Jace vs. Chandra,https://api.scryfall.com/cards/search?order=set&q=e%3Add2&unique=prints,,dd2,duel_deck
+Duel Decks: Jace vs. Chandra Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdd2&unique=prints,,tdd2,token
+Shards of Alara Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apala&unique=prints,Alara,pala,promo
+Shards of Alara Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atala&unique=prints,Alara,tala,token
+Shards of Alara,https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints,Alara,ala,expansion
+Wizards Play Network 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Apwpn&unique=prints,,pwpn,promo
+Masters Edition II,https://api.scryfall.com/cards/search?order=set&q=e%3Ame2&unique=prints,,me2,masters
+From the Vault: Dragons,https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints,,drb,from_the_vault
+Eventide Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apeve&unique=prints,Shadowmoor,peve,promo
+Eventide,https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints,Shadowmoor,eve,expansion
+Eventide Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Ateve&unique=prints,Shadowmoor,teve,token
+Shadowmoor Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apshm&unique=prints,Shadowmoor,pshm,promo
+Shadowmoor,https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints,Shadowmoor,shm,expansion
+Shadowmoor Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atshm&unique=prints,Shadowmoor,tshm,token
+15th Anniversary Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Ap15a&unique=prints,,p15a,promo
+Morningtide Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmor&unique=prints,Lorwyn,pmor,promo
+Morningtide,https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints,Lorwyn,mor,expansion
+Morningtide Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atmor&unique=prints,Lorwyn,tmor,token
+Magic Premiere Shop 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps08&unique=prints,,pmps08,promo
+Gateway 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Apg08&unique=prints,,pg08,promo
+Friday Night Magic 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Af08&unique=prints,Friday Night Magic,f08,promo
+Judge Gift Cards 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Ag08&unique=prints,Judge Gift Cards,g08,promo
+Magic Player Rewards 2008,https://api.scryfall.com/cards/search?order=set&q=e%3Ap08&unique=prints,Magic Player Rewards,p08,promo
+Duel Decks: Elves vs. Goblins,https://api.scryfall.com/cards/search?order=set&q=e%3Add1&unique=prints,,dd1,duel_deck
+Duel Decks: Elves vs. Goblins Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atdd1&unique=prints,,tdd1,token
+Lorwyn Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aplrw&unique=prints,Lorwyn,plrw,promo
+Lorwyn,https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints,Lorwyn,lrw,expansion
+Lorwyn Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atlrw&unique=prints,Lorwyn,tlrw,token
+Masters Edition,https://api.scryfall.com/cards/search?order=set&q=e%3Ame1&unique=prints,,me1,masters
+Summer of Magic,https://api.scryfall.com/cards/search?order=set&q=e%3Apsum&unique=prints,,psum,promo
+Tenth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints,Core Set,10e,core
+Tenth Edition Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Ap10e&unique=prints,,p10e,promo
+Tenth Edition Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3At10e&unique=prints,,t10e,token
+Future Sight Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apfut&unique=prints,Time Spiral,pfut,promo
+Future Sight,https://api.scryfall.com/cards/search?order=set&q=e%3Afut&unique=prints,Time Spiral,fut,expansion
+Grand Prix Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apgpx&unique=prints,,pgpx,promo
+Pro Tour Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints,,ppro,promo
+Planar Chaos Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Applc&unique=prints,Time Spiral,pplc,promo
+Planar Chaos,https://api.scryfall.com/cards/search?order=set&q=e%3Aplc&unique=prints,Time Spiral,plc,expansion
+Resale Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apres&unique=prints,,pres,promo
+Gateway 2007,https://api.scryfall.com/cards/search?order=set&q=e%3Apg07&unique=prints,,pg07,promo
+Magic Premiere Shop 2007,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps07&unique=prints,,pmps07,promo
+Friday Night Magic 2007,https://api.scryfall.com/cards/search?order=set&q=e%3Af07&unique=prints,Friday Night Magic,f07,promo
+Judge Gift Cards 2007,https://api.scryfall.com/cards/search?order=set&q=e%3Ag07&unique=prints,Judge Gift Cards,g07,promo
+Magic Player Rewards 2007,https://api.scryfall.com/cards/search?order=set&q=e%3Ap07&unique=prints,Magic Player Rewards,p07,promo
+Happy Holidays,https://api.scryfall.com/cards/search?order=set&q=e%3Ahho&unique=prints,,hho,funny
+Time Spiral Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aptsp&unique=prints,Time Spiral,ptsp,promo
+Time Spiral Timeshifted,https://api.scryfall.com/cards/search?order=set&q=e%3Atsb&unique=prints,Time Spiral,tsb,expansion
+Time Spiral,https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints,Time Spiral,tsp,expansion
+Coldsnap Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apcsp&unique=prints,Ice Age,pcsp,promo
+Coldsnap Theme Decks,https://api.scryfall.com/cards/search?order=set&q=e%3Acst&unique=prints,Ice Age,cst,box
+Coldsnap,https://api.scryfall.com/cards/search?order=set&q=e%3Acsp&unique=prints,Ice Age,csp,expansion
+Dissension Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdis&unique=prints,Ravnica,pdis,promo
+Dissension,https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints,Ravnica,dis,expansion
+Champs and States,https://api.scryfall.com/cards/search?order=set&q=e%3Apcmp&unique=prints,,pcmp,promo
+Guildpact Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apgpt&unique=prints,Ravnica,pgpt,promo
+Guildpact,https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints,Ravnica,gpt,expansion
+Arena League 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Apal06&unique=prints,Arena League,pal06,promo
+Magic Premiere Shop 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps06&unique=prints,,pmps06,promo
+Junior APAC Series,https://api.scryfall.com/cards/search?order=set&q=e%3Apjas&unique=prints,,pjas,promo
+Judge Gift Cards 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Ag06&unique=prints,Judge Gift Cards,g06,promo
+Gateway 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Apgtw&unique=prints,,pgtw,promo
+Hachette UK,https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints,,phuk,box
+Friday Night Magic 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Af06&unique=prints,Friday Night Magic,f06,promo
+Magic Player Rewards 2006,https://api.scryfall.com/cards/search?order=set&q=e%3Ap06&unique=prints,Magic Player Rewards,p06,promo
+Two-Headed Giant Tournament,https://api.scryfall.com/cards/search?order=set&q=e%3Ap2hg&unique=prints,,p2hg,promo
+Ravnica: City of Guilds Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aprav&unique=prints,Ravnica,prav,promo
+Ravnica: City of Guilds,https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints,Ravnica,rav,expansion
+Salvat 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Apsal&unique=prints,,psal,box
+Ninth Edition Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Ap9ed&unique=prints,Core Set,p9ed,promo
+Ninth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints,Core Set,9ed,core
+Saviors of Kamigawa Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apsok&unique=prints,Kamigawa,psok,promo
+Saviors of Kamigawa,https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints,Kamigawa,sok,expansion
+Betrayers of Kamigawa Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apbok&unique=prints,Kamigawa,pbok,promo
+Betrayers of Kamigawa,https://api.scryfall.com/cards/search?order=set&q=e%3Abok&unique=prints,Kamigawa,bok,expansion
+Arena League 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Apal05&unique=prints,Arena League,pal05,promo
+Magic Premiere Shop 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Apmps&unique=prints,,pmps,promo
+Junior Series Europe,https://api.scryfall.com/cards/search?order=set&q=e%3Apjse&unique=prints,,pjse,promo
+Friday Night Magic 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Af05&unique=prints,Friday Night Magic,f05,promo
+Judge Gift Cards 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Ag05&unique=prints,Judge Gift Cards,g05,promo
+Magic Player Rewards 2005,https://api.scryfall.com/cards/search?order=set&q=e%3Ap05&unique=prints,Magic Player Rewards,p05,promo
+Unhinged Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apunh&unique=prints,,punh,promo
+Unhinged,https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints,,unh,funny
+Champions of Kamigawa Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apchk&unique=prints,Kamigawa,pchk,promo
+Champions of Kamigawa,https://api.scryfall.com/cards/search?order=set&q=e%3Achk&unique=prints,Kamigawa,chk,expansion
+World Championship Decks 2004,https://api.scryfall.com/cards/search?order=set&q=e%3Awc04&unique=prints,,wc04,memorabilia
+Fifth Dawn Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Ap5dn&unique=prints,Mirrodin,p5dn,promo
+Darksteel Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apdst&unique=prints,Mirrodin,pdst,promo
+Mirrodin Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmrd&unique=prints,Mirrodin,pmrd,promo
+Fifth Dawn,https://api.scryfall.com/cards/search?order=set&q=e%3A5dn&unique=prints,Mirrodin,5dn,expansion
+Darksteel,https://api.scryfall.com/cards/search?order=set&q=e%3Adst&unique=prints,Mirrodin,dst,expansion
+Arena League 2004,https://api.scryfall.com/cards/search?order=set&q=e%3Apal04&unique=prints,Arena League,pal04,promo
+Judge Gift Cards 2004,https://api.scryfall.com/cards/search?order=set&q=e%3Ag04&unique=prints,Judge Gift Cards,g04,promo
+Magic Player Rewards 2004,https://api.scryfall.com/cards/search?order=set&q=e%3Ap04&unique=prints,Magic Player Rewards,p04,promo
+Friday Night Magic 2004,https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints,Friday Night Magic,f04,promo
+Mirrodin,https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints,Mirrodin,mrd,expansion
+World Championship Decks 2003,https://api.scryfall.com/cards/search?order=set&q=e%3Awc03&unique=prints,,wc03,memorabilia
+Eighth Edition Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Ap8ed&unique=prints,Core Set,p8ed,promo
+Eighth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A8ed&unique=prints,Core Set,8ed,core
+Scourge Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apscg&unique=prints,Onslaught,pscg,promo
+Scourge,https://api.scryfall.com/cards/search?order=set&q=e%3Ascg&unique=prints,Onslaught,scg,expansion
+Onslaught Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apons&unique=prints,Onslaught,pons,promo
+Legions Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aplgn&unique=prints,Onslaught,plgn,promo
+Legions,https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints,Onslaught,lgn,expansion
+Magic Online Avatars,https://api.scryfall.com/cards/search?order=set&q=e%3Apmoa&unique=prints,,pmoa,vanguard
+Japan Junior Tournament,https://api.scryfall.com/cards/search?order=set&q=e%3Apjjt&unique=prints,,pjjt,promo
+Arena League 2003,https://api.scryfall.com/cards/search?order=set&q=e%3Apal03&unique=prints,Arena League,pal03,promo
+Judge Gift Cards 2003,https://api.scryfall.com/cards/search?order=set&q=e%3Ag03&unique=prints,Judge Gift Cards,g03,promo
+Friday Night Magic 2003,https://api.scryfall.com/cards/search?order=set&q=e%3Af03&unique=prints,Friday Night Magic,f03,promo
+Magic Player Rewards 2003,https://api.scryfall.com/cards/search?order=set&q=e%3Ap03&unique=prints,Magic Player Rewards,p03,promo
+Vintage Championship,https://api.scryfall.com/cards/search?order=set&q=e%3Aovnt&unique=prints,,ovnt,memorabilia
+Onslaught,https://api.scryfall.com/cards/search?order=set&q=e%3Aons&unique=prints,Onslaught,ons,expansion
+World Championship Decks 2002,https://api.scryfall.com/cards/search?order=set&q=e%3Awc02&unique=prints,,wc02,memorabilia
+Hobby Japan Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aphj&unique=prints,,phj,promo
+Magic Online Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints,,prm,promo
+Judgment Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apjud&unique=prints,Odyssey,pjud,promo
+Judgment,https://api.scryfall.com/cards/search?order=set&q=e%3Ajud&unique=prints,Odyssey,jud,expansion
+Torment Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aptor&unique=prints,Odyssey,ptor,promo
+Torment,https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints,Odyssey,tor,expansion
+Arena League 2002,https://api.scryfall.com/cards/search?order=set&q=e%3Apal02&unique=prints,Arena League,pal02,promo
+Magic Player Rewards 2002,https://api.scryfall.com/cards/search?order=set&q=e%3Apr2&unique=prints,Magic Player Rewards,pr2,promo
+Judge Gift Cards 2002,https://api.scryfall.com/cards/search?order=set&q=e%3Ag02&unique=prints,Judge Gift Cards,g02,promo
+Friday Night Magic 2002,https://api.scryfall.com/cards/search?order=set&q=e%3Af02&unique=prints,Friday Night Magic,f02,promo
+Deckmasters,https://api.scryfall.com/cards/search?order=set&q=e%3Adkm&unique=prints,,dkm,box
+Odyssey Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apody&unique=prints,Odyssey,pody,promo
+Odyssey,https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints,Odyssey,ody,expansion
+World Championship Decks 2001,https://api.scryfall.com/cards/search?order=set&q=e%3Awc01&unique=prints,,wc01,memorabilia
+Sega Dreamcast Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Apsdg&unique=prints,,psdg,box
+Apocalypse Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apapc&unique=prints,Invasion,papc,promo
+Apocalypse,https://api.scryfall.com/cards/search?order=set&q=e%3Aapc&unique=prints,Invasion,apc,expansion
+Seventh Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints,Core Set,7ed,core
+Planeshift Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Appls&unique=prints,Invasion,ppls,promo
+Planeshift,https://api.scryfall.com/cards/search?order=set&q=e%3Apls&unique=prints,Invasion,pls,expansion
+Arena League 2001,https://api.scryfall.com/cards/search?order=set&q=e%3Apal01&unique=prints,Arena League,pal01,promo
+Friday Night Magic 2001,https://api.scryfall.com/cards/search?order=set&q=e%3Af01&unique=prints,Friday Night Magic,f01,promo
+Magic Player Rewards 2001,https://api.scryfall.com/cards/search?order=set&q=e%3Ampr&unique=prints,Magic Player Rewards,mpr,promo
+Judge Gift Cards 2001,https://api.scryfall.com/cards/search?order=set&q=e%3Ag01&unique=prints,Judge Gift Cards,g01,promo
+Invasion Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apinv&unique=prints,Invasion,pinv,promo
+Invasion,https://api.scryfall.com/cards/search?order=set&q=e%3Ainv&unique=prints,Invasion,inv,expansion
+Beatdown Box Set,https://api.scryfall.com/cards/search?order=set&q=e%3Abtd&unique=prints,,btd,box
+World Championship Decks 2000,https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints,,wc00,memorabilia
+Prophecy Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Appcy&unique=prints,Masques,ppcy,promo
+Prophecy,https://api.scryfall.com/cards/search?order=set&q=e%3Apcy&unique=prints,Masques,pcy,expansion
+Starter 2000,https://api.scryfall.com/cards/search?order=set&q=e%3As00&unique=prints,,s00,starter
+Nemesis Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apnem&unique=prints,Masques,pnem,promo
+Nemesis,https://api.scryfall.com/cards/search?order=set&q=e%3Anem&unique=prints,Masques,nem,expansion
+European Land Program,https://api.scryfall.com/cards/search?order=set&q=e%3Apelp&unique=prints,,pelp,promo
+Arena League 2000,https://api.scryfall.com/cards/search?order=set&q=e%3Apal00&unique=prints,Arena League,pal00,promo
+Judge Gift Cards 2000,https://api.scryfall.com/cards/search?order=set&q=e%3Ag00&unique=prints,Judge Gift Cards,g00,promo
+Friday Night Magic 2000,https://api.scryfall.com/cards/search?order=set&q=e%3Afnm&unique=prints,Friday Night Magic,fnm,promo
+Junior Super Series,https://api.scryfall.com/cards/search?order=set&q=e%3Apsus&unique=prints,,psus,promo
+Battle Royale Box Set,https://api.scryfall.com/cards/search?order=set&q=e%3Abrb&unique=prints,,brb,box
+Mercadian Masques Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmmq&unique=prints,Masques,pmmq,promo
+Mercadian Masques,https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints,Masques,mmq,expansion
+Wizards of the Coast Online Store,https://api.scryfall.com/cards/search?order=set&q=e%3Apwos&unique=prints,,pwos,promo
+World Championship Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apwor&unique=prints,,pwor,promo
+World Championship Decks 1999,https://api.scryfall.com/cards/search?order=set&q=e%3Awc99&unique=prints,,wc99,memorabilia
+Guru,https://api.scryfall.com/cards/search?order=set&q=e%3Apgru&unique=prints,,pgru,promo
+Portal Three Kingdoms,https://api.scryfall.com/cards/search?order=set&q=e%3Aptk&unique=prints,,ptk,starter
+Portal: Three Kingdoms Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apptk&unique=prints,,pptk,promo
+Starter 1999,https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints,,s99,starter
+Urza's Destiny Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apuds&unique=prints,Urza,puds,promo
+Urza's Destiny,https://api.scryfall.com/cards/search?order=set&q=e%3Auds&unique=prints,Urza,uds,expansion
+Classic Sixth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A6ed&unique=prints,Core Set,6ed,core
+Urza's Legacy Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apulg&unique=prints,Urza,pulg,promo
+Urza's Legacy,https://api.scryfall.com/cards/search?order=set&q=e%3Aulg&unique=prints,Urza,ulg,expansion
+Arena League 1999,https://api.scryfall.com/cards/search?order=set&q=e%3Apal99&unique=prints,Arena League,pal99,promo
+Judge Gift Cards 1999,https://api.scryfall.com/cards/search?order=set&q=e%3Ag99&unique=prints,Judge Gift Cards,g99,promo
+Anthologies,https://api.scryfall.com/cards/search?order=set&q=e%3Aath&unique=prints,,ath,box
+Urza's Saga Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apusg&unique=prints,Urza,pusg,promo
+Urza's Saga,https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints,Urza,usg,expansion
+Asia Pacific Land Program,https://api.scryfall.com/cards/search?order=set&q=e%3Apalp&unique=prints,,palp,promo
+World Championship Decks 1998,https://api.scryfall.com/cards/search?order=set&q=e%3Awc98&unique=prints,,wc98,memorabilia
+Unglued Tokens,https://api.scryfall.com/cards/search?order=set&q=e%3Atugl&unique=prints,,tugl,token
+Unglued,https://api.scryfall.com/cards/search?order=set&q=e%3Augl&unique=prints,,ugl,funny
+Portal Second Age,https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints,,p02,starter
+Exodus Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apexo&unique=prints,Tempest,pexo,promo
+Exodus,https://api.scryfall.com/cards/search?order=set&q=e%3Aexo&unique=prints,Tempest,exo,expansion
+Stronghold Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apsth&unique=prints,Tempest,psth,promo
+Stronghold,https://api.scryfall.com/cards/search?order=set&q=e%3Asth&unique=prints,Tempest,sth,expansion
+Judge Gift Cards 1998,https://api.scryfall.com/cards/search?order=set&q=e%3Ajgp&unique=prints,Judge Gift Cards,jgp,promo
+Tempest Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aptmp&unique=prints,Tempest,ptmp,promo
+Tempest,https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints,Tempest,tmp,expansion
+World Championship Decks 1997,https://api.scryfall.com/cards/search?order=set&q=e%3Awc97&unique=prints,,wc97,memorabilia
+Weatherlight,https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints,Mirage,wth,expansion
+Portal Demo Game,https://api.scryfall.com/cards/search?order=set&q=e%3Appod&unique=prints,,ppod,starter
+Vanguard Series,https://api.scryfall.com/cards/search?order=set&q=e%3Apvan&unique=prints,,pvan,vanguard
+Portal,https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints,,por,starter
+MicroProse Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Apmic&unique=prints,,pmic,memorabilia
+Astral Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Apast&unique=prints,,past,box
+Fifth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints,Core Set,5ed,core
+Visions,https://api.scryfall.com/cards/search?order=set&q=e%3Avis&unique=prints,Mirage,vis,expansion
+Introductory Two-Player Set,https://api.scryfall.com/cards/search?order=set&q=e%3Aitp&unique=prints,,itp,starter
+Multiverse Gift Box,https://api.scryfall.com/cards/search?order=set&q=e%3Amgb&unique=prints,,mgb,box
+Mirage,https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints,Mirage,mir,expansion
+Redemption Program,https://api.scryfall.com/cards/search?order=set&q=e%3Apred&unique=prints,,pred,promo
+Celebration Cards,https://api.scryfall.com/cards/search?order=set&q=e%3Apcel&unique=prints,,pcel,memorabilia
+Arena League 1996,https://api.scryfall.com/cards/search?order=set&q=e%3Aparl&unique=prints,Arena League,parl,promo
+Rivals Quick Start Set,https://api.scryfall.com/cards/search?order=set&q=e%3Arqs&unique=prints,,rqs,box
+Alliances,https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints,Ice Age,all,expansion
+Pro Tour Collector Set,https://api.scryfall.com/cards/search?order=set&q=e%3Aptc&unique=prints,,ptc,memorabilia
+Homelands,https://api.scryfall.com/cards/search?order=set&q=e%3Ahml&unique=prints,,hml,expansion
+Renaissance,https://api.scryfall.com/cards/search?order=set&q=e%3Aren&unique=prints,,ren,masters
+Rinascimento,https://api.scryfall.com/cards/search?order=set&q=e%3Arin&unique=prints,,rin,masters
+Chronicles,https://api.scryfall.com/cards/search?order=set&q=e%3Achr&unique=prints,,chr,masters
+Ice Age,https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints,Ice Age,ice,expansion
+Fourth Edition Foreign Black Border,https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints,,4bb,core
+Fourth Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints,Core Set,4ed,core
+Media Inserts,https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints,,pmei,promo
+DCI Legend Membership,https://api.scryfall.com/cards/search?order=set&q=e%3Aplgm&unique=prints,,plgm,promo
+Fallen Empires,https://api.scryfall.com/cards/search?order=set&q=e%3Afem&unique=prints,,fem,expansion
+HarperPrism Book Promos,https://api.scryfall.com/cards/search?order=set&q=e%3Aphpr&unique=prints,,phpr,promo
+The Dark,https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints,,drk,expansion
+Dragon Con,https://api.scryfall.com/cards/search?order=set&q=e%3Apdrc&unique=prints,,pdrc,promo
+Summer Magic / Edgar,https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints,Core Set,sum,core
+Legends,https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints,,leg,expansion
+Foreign Black Border,https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints,Core Set,fbb,core
+Revised Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints,Core Set,3ed,core
+Antiquities,https://api.scryfall.com/cards/search?order=set&q=e%3Aatq&unique=prints,,atq,expansion
+Arabian Nights,https://api.scryfall.com/cards/search?order=set&q=e%3Aarn&unique=prints,,arn,expansion
+Intl. Collectors’ Edition,https://api.scryfall.com/cards/search?order=set&q=e%3Acei&unique=prints,,cei,memorabilia
+Collectors’ Edition,https://api.scryfall.com/cards/search?order=set&q=e%3Aced&unique=prints,,ced,memorabilia
+Unlimited Edition,https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints,Core Set,2ed,core
+Limited Edition Beta,https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints,Core Set,leb,core
+Limited Edition Alpha,https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints,Core Set,lea,core
